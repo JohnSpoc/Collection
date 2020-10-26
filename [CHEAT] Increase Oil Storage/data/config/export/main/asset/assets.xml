@@ -1,5 +1,14 @@
 <ModOps>
+	<!-- Oil-Storage Alte Welt -->
 	<ModOp Type="merge" GUID="100784" Path="/Values/Warehouse/WarehouseStorage">
+		<StorageMax>2500</StorageMax>
+	</ModOp>
+	<!-- Oil-Storage Neue Welt -->
+	<ModOp Type="merge" GUID="101330" Path="/Values/Warehouse/WarehouseStorage">
+		<StorageMax>2500</StorageMax>
+	</ModOp>
+	<!-- Oil-Storage Land of Lions -->
+	<ModOp Type="merge" GUID="119034" Path="/Values/Warehouse/WarehouseStorage">
 		<StorageMax>2500</StorageMax>
 	</ModOp>
 </ModOps>
